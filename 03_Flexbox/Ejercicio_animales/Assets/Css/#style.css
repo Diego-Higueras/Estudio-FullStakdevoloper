@@ -1,0 +1,16 @@
+.imges img {
+    width: 300px;
+    height: auto;
+}
+
+.imges{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: right;
+}
+
+body{
+     display: flex;
+     flex-wrap: wrap;
+}

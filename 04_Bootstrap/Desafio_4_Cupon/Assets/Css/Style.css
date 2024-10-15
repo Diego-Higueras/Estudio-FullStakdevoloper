@@ -1,0 +1,97 @@
+.container-fluid {
+  background-color: #28a745;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logowhite {
+  width: 15vw;
+  max-width: 100px;
+  height: auto;
+}
+
+.fa-solid {
+
+    height: 6.6px;
+    width: 9.2 px;
+}
+
+.margen {
+  margin-bottom: 20px;
+  
+}
+.simbolo {
+margin: 100px;
+
+}
+
+.direccion {
+  display: flex;
+  gap: 10px;
+}
+
+
+
+.precio {
+
+   display: flex;
+   justify-content: end;
+   gap: 20px;
+   
+   
+}
+
+.verde {
+  color: #28a745;
+}
+
+.gris {
+  color: #707070;
+}
+
+.blanco {
+  background-color: rgb(255, 255, 255);
+}
+.legend-container {
+  text-align: center;
+  color: white;
+}
+
+.footer-container {
+  background-color: #28a745;
+  text-align: center;
+  color: white;
+}
+
+.logoblack {
+  width: 15vw;
+  max-width: 100px;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.casillas {
+
+    margin: 20px;
+
+}
+
+.centrado {
+
+display: flex;
+justify-content: center;
+margin: 30px;
+
+}
+
+.margentop {
+  margin-top: 30px;
+}
+
+.textfooter {
+  text-align: center;
+  
+}

@@ -1,0 +1,96 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+
+}
+header {
+  text-align: center;
+  color: #ffffff;
+  font-size: 36px;
+  
+}
+
+.section-header {
+  justify-content: space-evenly;
+}
+
+.div img {
+  top: 73px;
+  width: 100vw;
+  height: 50vw;
+  left: 0%;
+  opacity: 1;
+}
+.text {
+  top: 45px;
+  display: block;
+  text-align: left;
+  justify-content: flex-start;
+  margin: 10px;
+  padding-left: 400px;
+  padding-right: 950px;
+  font-size: 30px;
+  
+}
+
+.bloque {
+  display: inline;
+  border: 2px solid;
+  margin: 10px;
+}
+
+.imagen2 {
+  top: 800px;
+  padding-left: 1800px;
+  padding-right: 250px;
+}
+
+.Caracteristicas {
+  text-align: center;
+  color: #ffffff;
+  background-color: #1e1a13;
+  font-size: 48px;
+}
+
+ul li {
+
+    font-size: 70px;
+    
+}
+
+body ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+  padding: 4.5rem 9rem;
+  background-color: #1e1a13;
+  justify-content: space-evenly;
+  font-size: 16px;
+}
+
+.footer {
+  background-color: #1e1a13;
+  text-align: center;
+  border: 2px solid #1e1a13;
+  font-size: 34px;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 20.5rem 7rem;
+  }
+
+
